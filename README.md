@@ -37,7 +37,7 @@ Adding Docker Compose to an existing project or starting from scratch is easy.  
 
 After you have a docker-compose.yml file in your existing or new Jekyll project, simply follow the instructions above in the "Using this sample" section to serve up your project.  
 
-### Sample Theme
+#### Sample Theme
 
 The theme that is used is from [portfolio-iro](https://github.com/Bloc/portfolio-iro/) and serves as an example theme
 for this project.
