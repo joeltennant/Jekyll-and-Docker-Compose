@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project provides examples for building a Jekyll blog/site with Docker Compose. Using Docker you can easily
+This project provides an example for building a Jekyll blog/site with Docker Compose. Using Docker you can easily
 develop your jekyll site without installing Ruby and can develop it from computer to computer with a consistent
 environment.  This is particularly helpful for Windows users.
 
