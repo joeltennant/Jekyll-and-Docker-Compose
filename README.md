@@ -13,7 +13,7 @@ environment.  This is particularly helpful for Windows users.
 
  [Instructions to install Docker Compose](https://docs.docker.com/compose/install/)
 
-#### Using this sample project
+#### Using this sample
 
 To start your project using this sample template begin by cloning this repository.
 
@@ -31,15 +31,18 @@ docker-compose down
 
 When you are ready to publish, simply push your project to Github or whenever you choose you host your site.
 
+#### Exisiting Project or Start from Scratch
+
+Adding Docker Compose to an existing project or starting from scratch is easy.  Create a filed called 'docker-compose.yml' in the root.  See example file for the contents you sould add: [Sample docker-compose.yml](https://github.com/joelt11753/Jekyll-and-Docker-Compose/blob/master/docker-compose.yml)
+
+After you have a docker-compose.yml file in your existing or new Jekyll project, simply follow the instructions above in the "Using this sample" section to serve up your project.  
+
 ### Sample Theme
 
 The theme that is used is from [portfolio-iro](https://github.com/Bloc/portfolio-iro/) and serves as an example theme
 for this project.
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
-
 A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
 
 [Original Repo](https://github.com/Bloc/portfolio-iro/)
 [Demo](https://rohanchandra.github.io/type-theme/)
-
