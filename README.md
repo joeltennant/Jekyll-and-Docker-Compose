@@ -6,6 +6,10 @@ This project provides examples for building a Jekyll blog/site with Docker Compo
 develop your jekyll site without installing Ruby and can develop it from computer to computer with a consistent
 environment.  This is particularly helpful for Windows users.
 
+## Why Use Docker
+
+Docker containers provide a consistent environment accross different computers.  For the non-Ruby developer, it means you don't have to install Ruby on Rails to your system to make your site.  This is a great option for Windows users who don't want to deal with Ruby.
+
 ## Getting Started
 
 #### Prerequisites
