@@ -49,4 +49,5 @@ for this project.
 A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
 
 [Original Repo](https://github.com/Bloc/portfolio-iro/)
+
 [Demo](https://rohanchandra.github.io/type-theme/)
