@@ -39,7 +39,7 @@ When you are ready to publish, simply push your project to Github or whenever yo
 
 Adding Docker Compose to an existing project or starting from scratch is easy.  Create a filed called 'docker-compose.yml' in the root.  See example file for the contents you sould add: [Sample docker-compose.yml](https://github.com/joelt11753/Jekyll-and-Docker-Compose/blob/master/docker-compose.yml)
 
-After you have a docker-compose.yml file in your existing or new Jekyll project, simply follow the instructions above in the "Using this sample" section to serve up your project.  
+After you have a docker-compose.yml file in your existing or new Jekyll project, simply follow the instructions above in the "Using this sample" section to serve up your site.  
 
 #### Sample Theme
 
