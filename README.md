@@ -17,7 +17,7 @@ Docker containers provide a consistent environment accross different computers. 
 
 #### Using this sample
 
-To start your project using this sample template begin by cloning this repository.
+To start your project using this sample template begin by cloning this repository to your machine.
 
 To serve up the project:
 1) In project folder run (Linux users may need to use 'sudo'):
