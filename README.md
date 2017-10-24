@@ -6,7 +6,7 @@ environment.  This is particularly helpful for Windows users.
 
 ## Why Use Docker
 
-Docker containers provide a consistent environment accross different computers.  For the non-Ruby developer, it means you don't have to install Ruby on Rails to your system to make your site.  This is a great option for Windows users who don't want to deal with Ruby.
+Docker containers provide a consistent environment accross different computers.  For the non-Ruby developer, it means you don't have to install Ruby on Rails to your system to make your site.  This is a great option for Windows users who don't want to deal with Ruby.  No matter what system you use, with Docker, everytime you run your container it is isoloated form the rest of yoru computer.  No extra installs, downloads, or running programs other than Docker and your favorite editor.
 
 ## Getting Started
 
