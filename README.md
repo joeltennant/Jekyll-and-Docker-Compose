@@ -1,12 +1,12 @@
 # Jekyll & Docker Compose
 
 This project provides an example for building a Jekyll blog/site with Docker Compose. Using Docker you can easily
-develop your jekyll site without installing Ruby and can develop it from computer to computer with a consistent
+develop your Jekyll site without installing Ruby and can develop it from computer to computer with a consistent
 environment.  This is particularly helpful for Windows users.
 
 ## Why Use Docker
 
-Docker containers provide a consistent environment accross different computers.  For the non-Ruby developer, it means you don't have to install Ruby on Rails to your system to make your site.  This is a great option for Windows users who don't want to deal with Ruby.  No matter what system you use, with Docker, everytime you run your container it is isoloated form the rest of yoru computer.  No extra installs, downloads, or running programs other than Docker and your favorite editor.
+Docker containers provide a consistent environment across different computers.  For the non-Ruby developer, it means you don't have to install Ruby on Rails to your system to make your site.  This is a great option for Windows users who don't want to deal with Ruby.  No matter what system you use, with Docker, every time you run your container it is isolated form the rest of your computer.  No extra installs, downloads, or running programs other than Docker and your favorite editor.
 
 ## Getting Started
 
@@ -26,16 +26,16 @@ docker-compose up
 ```
 2) View project at localhost:4000
 3) Edit project and Jekyll will auto-regenerates the site
-4) When you want to shut-down the site, ues Ctrl+C then run:
+4) When you want to shut-down the site, use Ctrl+C then run:
 ```
 docker-compose down
 ```
 
-When you are ready to publish, simply push your project to Github or whenever you choose you host your site.
+When you are ready to publish, simply push your project to Github or whatever you choose to host your site.
 
-#### Exisiting Project or Start from Scratch
+#### Existing Project or Start from Scratch
 
-Adding Docker Compose to an existing project or starting from scratch is easy.  Create a filed called 'docker-compose.yml' in the root.  See example file for the contents you sould add: [Sample docker-compose.yml](https://github.com/joelt11753/Jekyll-and-Docker-Compose/blob/master/docker-compose.yml)
+Adding Docker Compose to an existing project or starting from scratch is easy.  Create a filed called 'docker-compose.yml' in the root.  See example file for the contents you should add: [Sample docker-compose.yml](https://github.com/joelt11753/Jekyll-and-Docker-Compose/blob/master/docker-compose.yml)
 
 After you have a docker-compose.yml file in your existing or new Jekyll project, simply follow the instructions above in the "Using this sample" section to serve up your site.  
 
